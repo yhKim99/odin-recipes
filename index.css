@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+}
+
+h1#title {
+    font-family: "Lucida Console", monospace;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+#title {
+    font-family: "Lucida Console", monospace;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
